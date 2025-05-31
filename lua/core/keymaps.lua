@@ -19,3 +19,5 @@ vim.keymap.set('n','<leader>fb',builtin.buffers,{desc = "Telescope: Buffers"})
 vim.keymap.set('n','<leader>fh',builtin.help_tags,{desc = "Telescope: Help Tags"})
 
 vim.keymap.set('n','<leader>h',':nohlsearch<CR>')
+
+
